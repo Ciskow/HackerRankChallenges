@@ -1,4 +1,4 @@
-package Java;
+package ProblemSolving;
 
 public class SolveMeFirst {
 
