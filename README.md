@@ -12,7 +12,7 @@ The goal is to leave here some challenges completed in the HackerRank of algorit
 
 | Challenge     | Resolution
 | ------------- |:-------------:| 
-| [SolveMeFrist](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [SolvemeFirst.java](https://github.com/Ciskow/HackerRankChallenges)| 
+| [SolveMeFirst](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [SolvemeFirst.java](https://github.com/Ciskow/HackerRankChallenges)| 
 | [ArraySum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [ArraySum.java](https://github.com/Ciskow/HackerRankChallenges)|  
 | [Compare the Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=next-challenge&h_v=zen) | [CompareTheTriples.java](https://github.com/Ciskow/HackerRankChallenges) |  
 | [VeryBigSum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [VeryBigSum.java](https://github.com/Ciskow/HackerRankChallenges)| 
@@ -41,5 +41,5 @@ The goal is to leave here some challenges completed in the HackerRank of algorit
 | [Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [CurrencyFormatter.java](https://github.com/Ciskow/HackerRankChallenges)| 
 
 
-#### Let's code :smiling_imp:	
+#### Let's code 
 
