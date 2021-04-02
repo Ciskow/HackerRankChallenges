@@ -26,8 +26,8 @@ The goal is to leave here some challenges completed in the HackerRank of algorit
 ## Java
 | Challenge     | Resolution
 | ------------- |:-------------:| 
-| [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) :white_check_mark: | [WelcomeToJava.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/Java/WelcomeToJava.java)|  
-| [Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [StdinStdoutI.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/Java/StdinStdoutI.java)| :white_check_mark:
+| [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [WelcomeToJava.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/Java/WelcomeToJava.java)|  
+| [Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [StdinStdoutI.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/Java/StdinStdoutI.java)|
 | [Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [StdinStdoutII.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/Java/StdinStdoutII.java)| 
 | [If Else](https://www.hackerrank.com/challenges/java-if-else/problem) | [IfElse.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/Java/IfElse.java) |  
 | [Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [OutputFormatting.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/Java/OutputFormatting.java)| 
@@ -41,5 +41,5 @@ The goal is to leave here some challenges completed in the HackerRank of algorit
 | [Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [CurrencyFormatter.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/Java/CurrencyFormatter.java)| 
 
 
-#### Let's code :smile:
+### Let's code! :grinning:
 
