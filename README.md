@@ -14,7 +14,7 @@ The goal is to leave here some challenges completed in the HackerRank of algorit
 | ------------- |:-------------:| 
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [SolveMeFirst.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/ProblemSolving/SolveMeFirst.java)| 
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [SimpleArraySum.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/ProblemSolving/SimpleArraySum.java)|  
-| [Compare the Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=next-challenge&h_v=zen) | [CompareTheTriples.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/ProblemSolving/CompareTheTriples.java) |  
+| [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [CompareTheTriplets.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/ProblemSolving/CompareTheTriplets.java) |  
 | [Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [VeryBigSum.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/ProblemSolving/VeryBigSum.java)| 
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [DiagonalDifference.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/ProblemSolving/DiagonalDifference.java)| 
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [PlusMinus.java](https://github.com/Ciskow/HackerRankChallenges/blob/master/src/ProblemSolving/PlusMinus.java)| 
